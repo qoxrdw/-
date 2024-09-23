@@ -16,10 +16,11 @@ public class Test1 {
 
             Session session = factory.getCurrentSession();
 
-            Employee emp = new Employee("Alex", "Ivanov", "sales", 300);
-            session.beginTransaction();
-            session.save(emp);
-            session.getTransaction().commit();
+//            Employee emp = new Employee("Alex", "Ivanov", "sales", 300);
+//            session.beginTransaction();
+//            session.save(emp);
+//            session.getTransaction().commit();
+
 
 
 
