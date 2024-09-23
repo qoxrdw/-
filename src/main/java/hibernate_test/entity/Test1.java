@@ -22,7 +22,8 @@ public class Test1 {
 //            session.getTransaction().commit();
 
 
-
+// 123
+            // 345
 
         } finally {
             factory.close();
